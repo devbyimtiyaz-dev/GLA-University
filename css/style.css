@@ -56,19 +56,6 @@ section{
     overflow: hidden;
 }
 
-/* BACKGROUND SHAPES */
-
-
-
-.hero-bg-shape2 {
-   
-    position: absolute;
-    width: 500px;
-    height: 500px;
-    background: radial-gradient(circle, #3b82f630, transparent);
-    bottom: -200px;
-    left: -200px;
-}
 
 
 /* LOGO */
